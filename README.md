@@ -1,5 +1,5 @@
 # PaperSharing 📝
-The repo for paper sharing among students in RBDI Lab.
+This repo is for paper sharing among students in the RBDI Lab at UQ.
 
 ## Basic Structure
 Frequency: Weekly.
