@@ -18,7 +18,7 @@ For every student who would like to share papers:
 
 Papers should be:
 
-+ Relevant to the group’s theme or field.
++ Relevant to the group’s theme or field (LLM-based papers are preferred).
 
 + Peer-reviewed or top-tier preprints (e.g., arXiv, NeurIPS, ICML, ACL).
 
