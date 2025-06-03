@@ -1,7 +1,7 @@
 # [CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent](https://dl.acm.org/doi/pdf/10.1145/3637528.3671837)
 
 ### Introduction
-Due to the powerful language understanding and in-context learning ability, LLM have provided great potential to recommendation.  But the vulnerability of LLM-empowered RS makes it under adversarial attack. For example, attackers leverage the LLM agent to insert some tokens (e.g., words) or items in the user’s prompt to manipulate the LLM-empowered recommender system to make incorrect decisions.![image]
+Due to the powerful language understanding and in-context learning ability, LLM have provided great potential to recommendation.  But the vulnerability of LLM-empowered RS makes it under adversarial attack. For example, attackers leverage the LLM agent to insert some tokens (e.g., words) or items in the user’s prompt to manipulate the LLM-empowered recommender system to make incorrect decisions.
 
 ### Challenges
 In black-box attack, a mainstream method is to develop RL-based agents to obtain malicious user profiles (i.e., a series of items) and inject them into the victim RecSys for manipulating system’s decision. But existing methods suffer from several limitations:
