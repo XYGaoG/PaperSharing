@@ -4,7 +4,7 @@ The repo for paper sharing among students in RBDI Lab.
 ## Basic Structure
 Frequency: Weekly.
 
-Duration: 45 min.
+Duration: 30 min.
 
 Format:
 
