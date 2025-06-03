@@ -22,7 +22,7 @@ Papers should be:
 
 + Peer-reviewed or top-tier preprints (e.g., arXiv, NeurIPS, ICML, ACL).
 
-+ Papers with methods that can be generalized to a broad range of areas are preferred.
++ With methods can be generalized to a broad range of areas are preferred.
 
 ## Participation Rules
 
