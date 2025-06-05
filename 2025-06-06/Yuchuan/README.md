@@ -13,3 +13,6 @@ In black-box attack, a mainstream method is to develop RL-based agents to obtain
 ### Motivation
 LLM has remarkable potential in approximating human-level intelligence and it can well comprehend human common sense in natural language and perform complex reasoning, so as to simulate human-like decision-making processes.
 Therefore, we can leverage llms as attack agents to attack recsys.
+
+### How do you envision applying the methods from this paper to your own research?
+We can leverage LLM agent for generating possible textual perturbations in recommendation prompts. In addition, multi-agents could also be a possible way to design text-based attack strategies. For example, one agent can be responsible for perturbation generation, another agent can handle evaluation, accessing the impact of each perturbation on the recommendation performance.
