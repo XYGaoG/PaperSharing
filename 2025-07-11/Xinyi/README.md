@@ -15,7 +15,8 @@ Existing methods suffer from the inability to simultaneously preserve meaningful
 1. standard context windows cannot process entire graphs with numerous textual nodes.
 2. struggle to maintain structural consistency.
 3. they tend to produce inconsistent or hallucinated content.
-The collaborative framework enable each agent to focus on a specific challenge.
+
+The propsoed collaborative framework enable each agent to focus on a specific challenge and achieve the better data generation.
 
 ### How can the ideas in this paper be generalized to other areas or problems?
   
