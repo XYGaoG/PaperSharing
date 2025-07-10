@@ -22,10 +22,10 @@ The propsoed collaborative framework enable each agent to focus on a specific ch
   
 This paper offers a novel multi-agent paradigm for graph data generation:
 
-Manager: coordinates the overall process and determines optimal synthesis strategies based on current graph characteristics.
-Perception: analyzes graph structure and employs advanced sampling to identify representative subgraphs processable within LLM context constraints.
-Enhancement: generates new nodes and edges with consistent semantics and structure.
-Evaluation: assesses quality based on both semantic coherence and structural integrity, providing feedback for iterative improvement to ensure structural and semantic consistency. 
+Manager: coordinates the overall process and determines optimal synthesis strategies based on current graph characteristics.  
+Perception: analyzes graph structure and employs advanced sampling to identify representative subgraphs processable within LLM context constraints.  
+Enhancement: generates new nodes and edges with consistent semantics and structure.  
+Evaluation: assesses quality based on both semantic coherence and structural integrity, providing feedback for iterative improvement to ensure structural and semantic consistency.   
 
 The proposed method supports comprehensive evaluation in graph representation learning, including metrics such as class imbalance, community detection, information diffusion, and node degree distribution analysis.
 Furthermore, the LLM-based paradigm in the graph domain can be extended to data-centric approaches for comprehensive data generation and quality evaluation.
