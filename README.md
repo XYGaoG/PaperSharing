@@ -39,3 +39,6 @@ Everyone who wants to share papers should read the paper beforehand and answer t
 + How can the ideas in this paper be generalized to other areas or problems? 
 
 Feel free to use LLMs to assist with summarization. However, for the last two questions, your personal insights and critical thinking are especially valued.
+
+Please include your answers to these questions in a Markdown file named README.md. Upload both the paper you wish to share and the README.md file to a folder named after your first name, and place this folder inside a parent directory named after the meeting date.
+

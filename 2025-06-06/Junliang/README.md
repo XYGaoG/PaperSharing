@@ -19,3 +19,7 @@ I see potential in adopting latent CoT techniques such as token-based abstractio
 ### How can the ideas in this paper be generalized to other areas or problems?
   
 The principles of latent reasoning could be extended to multimodal learning (e.g., combining text and images), low-resource tasks (by reducing token dependencies), and agent-based planning (to support compact internal decision processes). Furthermore, they offer a pathway for building socially-aware AI via implicit belief modeling, relevant to Theory of Mind and social reasoning tasks.
+
+### Extended Reading
+
+Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation
