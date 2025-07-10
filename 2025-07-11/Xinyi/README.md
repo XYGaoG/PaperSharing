@@ -1,4 +1,4 @@
-## When Do LLMs Help With Node Classification? A Comprehensive Analysis
+## GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments
 
 ### Why did you choose to share this paper?
   
